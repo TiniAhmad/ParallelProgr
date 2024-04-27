@@ -1,0 +1,8 @@
+D:\training\parallelinvoke\parallelinvoke\bin\Debug\parallelinvoke.exe.config
+D:\training\parallelinvoke\parallelinvoke\bin\Debug\parallelinvoke.exe
+D:\training\parallelinvoke\parallelinvoke\bin\Debug\parallelinvoke.pdb
+D:\training\parallelinvoke\parallelinvoke\obj\Debug\parallelinvoke.csproj.AssemblyReference.cache
+D:\training\parallelinvoke\parallelinvoke\obj\Debug\parallelinvoke.csproj.SuggestedBindingRedirects.cache
+D:\training\parallelinvoke\parallelinvoke\obj\Debug\parallelinvoke.csproj.CoreCompileInputs.cache
+D:\training\parallelinvoke\parallelinvoke\obj\Debug\parallelinvoke.exe
+D:\training\parallelinvoke\parallelinvoke\obj\Debug\parallelinvoke.pdb

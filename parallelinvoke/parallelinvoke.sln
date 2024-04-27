@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parallelinvoke", "parallelinvoke\parallelinvoke.csproj", "{DDA89DB7-9C99-4803-B5E8-6A2792531562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA89DB7-9C99-4803-B5E8-6A2792531562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA89DB7-9C99-4803-B5E8-6A2792531562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA89DB7-9C99-4803-B5E8-6A2792531562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA89DB7-9C99-4803-B5E8-6A2792531562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CEC43AA-6EAF-4B50-BDBA-13A348850F8B}
+	EndGlobalSection
+EndGlobal
